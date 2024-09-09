@@ -1,6 +1,7 @@
 # News App
 
-[![News App](https://img.shields.io/badge/Visit-News%20App-blue)](https://newspage-7bb47.web.app/)
+[![News App](https://img.shields.io/badge/Visit-News%20App-blue)](https://news-page-4ceda.web.app/)
+
 
 ## Description
 
