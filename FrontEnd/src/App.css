@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  padding: 20px;
+}
+
+.App h1 {
+  color: #1a73e8;
+  margin-bottom: 20px;
+  font-size: 2.5rem;
+}
+
+.App .news-feed {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .App h1 {
+    font-size: 2rem;
+  }
+}
